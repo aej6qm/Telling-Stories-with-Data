@@ -1,5 +1,5 @@
-# Telling Stories with Data
-This is my repository for Telling Stories with Data at CMU, Fall 2021.
+# Portfolio
+This is my public portfolio for Telling Stories with Data at CMU, Fall 2021.
 
 # About me
 Hi! My name is Anne (she/her)and I'm a second-year graduate student at CMU studying public policy and management. My areas of interest include social and environmental policy, especially at the intersection of race and environmental justice. 
