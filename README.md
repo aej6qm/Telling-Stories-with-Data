@@ -1,5 +1,5 @@
 # Telling-Stories-with-Data
-Repository for Telling Stories with Data, Fall 2021
+This is my repository for Telling Stories with Data at CMU, Fall 2021.
 
 # About me
 
