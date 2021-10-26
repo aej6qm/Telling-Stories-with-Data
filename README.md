@@ -16,6 +16,11 @@ After graduation, I plan to work as a policy researcher/analyst where I will con
 # Portfolio
 ## Assignments
 
+## In-Class Exercises
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7642579"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Final Project
 
 https://aej6qm.github.io/Telling-Stories-with-Data/
