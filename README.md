@@ -2,7 +2,7 @@
 This is my public portfolio for Telling Stories with Data at CMU, Fall 2021.
 
 # About me
-Hi! My name is Anne (she/her)and I'm a second-year graduate student at CMU studying public policy and management. My areas of interest include social and environmental policy, especially at the intersection of race and environmental justice. 
+Hi! My name is Anne (she/her) and I'm a second-year graduate student at CMU studying public policy and management. My areas of interest include social and environmental policy, especially at the intersection of race and environmental justice. 
 
 Before coming to Carnegie Mellon, I received my BA in American Studies and Sociology from the University of Virginia. I have some campaign experience, and spent a year working as an AmeriCorps VISTA in the Greater Pittsburgh area. In my free time I enjoy running, hiking, and playing with my Sheltie puppy, Buddy.
 
