@@ -8,6 +8,8 @@ This visualization uses the same data used in the chart above but in a grid of l
 
 ## Flourish Visualization, Take Two
 This visualization builds on the data used throughout this assignment by constructing a graph that attempts to incorporate learned lessons in color, clarity, and chart selection.
+
+This chart specifically highlights the OCED yearly average and data for the United States to display information that may be of importance to an American audience. The time-lapsed visualization shows that the American debt-to-GDP ratio increases rapidly after 2007 (in response to the 2008 Financial Crisis) but stays only slightly above the OCED average over time.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7695027"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Discussion
