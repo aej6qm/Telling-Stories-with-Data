@@ -6,4 +6,6 @@
 This visualization uses the same data used in the chart above but in a grid of line charts that allows for easy comparisons of debt ratios across a number of countries and years.
 <div class="flourish-embed flourish-chart" data-src="visualisation/7694418"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+[Return to main page](/readme.md)
+
 https://aej6qm.github.io/Telling-Stories-with-Data/
