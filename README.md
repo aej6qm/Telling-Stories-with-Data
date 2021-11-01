@@ -20,9 +20,9 @@ After graduation, I plan to work as a policy researcher/analyst where I will con
 
 ## In-Class Exercises
 
-### <div class="flourish-embed flourish-chart" data-src="visualisation/7642579"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7642579"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### <iframe title="Candy Power Rankings" aria-label="table" id="datawrapper-chart-zSfaP" src="https://datawrapper.dwcdn.net/zSfaP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3506"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Candy Power Rankings" aria-label="table" id="datawrapper-chart-zSfaP" src="https://datawrapper.dwcdn.net/zSfaP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3506"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
 ## Final Project
 
