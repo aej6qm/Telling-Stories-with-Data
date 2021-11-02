@@ -25,6 +25,12 @@ After graduation, I plan to work as a policy researcher/analyst where I will con
 ### 538 Candy Visualization
 <iframe title="Candy Power Rankings" aria-label="table" id="datawrapper-chart-zSfaP" src="https://datawrapper.dwcdn.net/zSfaP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3506"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
+### Tableau Tutorial
+
+https://prod-useast-b.online.tableau.com/t/tellingstorieswithdataannejensenfall2021/views/TSWDTableauTutorial/NewsMediaOutletSet?:origin=card_share_link&:embed=n
+  
+https://prod-useast-b.online.tableau.com/t/tellingstorieswithdataannejensenfall2021/views/TSWDTableauTutorial/CircleView?:origin=card_share_link&:embed=n
+
 ## Final Project
 
 https://aej6qm.github.io/Telling-Stories-with-Data/
