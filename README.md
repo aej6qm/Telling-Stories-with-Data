@@ -18,6 +18,8 @@ After graduation, I plan to work as a policy researcher/analyst where I will con
 
 [Week Two, Assignment 1](/dataviz2.md)
 
+[Week Three, Assignment 3&4](/dataviz3.md)
+
 ## In-Class Exercises
 ### King County COVID Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/7642579"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
