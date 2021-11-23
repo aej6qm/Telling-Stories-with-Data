@@ -57,7 +57,7 @@ After graduation, I plan to work as a policy researcher/analyst where I will con
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
   </script>
   
-## [Final Project](/final_project_AnneJensen.md)
+## [Final Project](/final_project_part_1_AnneJensen.md)
 
 [Page View](https://aej6qm.github.io/Telling-Stories-with-Data/)
  
