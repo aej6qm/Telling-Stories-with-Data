@@ -18,3 +18,5 @@ To complete this project, I will first storyboard in depth within the project st
 To create my visualizations I will probably end up using Flourish as this has been my favorite data visualization tool thus far, although this may change according to the realities of my datasets and what I'm trying accomplish with them. Tableau is another potential tool that will be used during my project.
 
 My final project will most likely be completed using Shorthand, since this platform seems particularly clean and effective to build a story like this. I would also consider using Esri's Story Maps, as this is another digital platform that would lend itself well to geographic storytelling. Most importantly, neither potential medium will result in a deliverable that requires Powerpoint slides or a pitch deck. 
+
+Find Part II of this project [here!](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_2_AnneJensen.html)
