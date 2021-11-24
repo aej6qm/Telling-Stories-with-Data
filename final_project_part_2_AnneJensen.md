@@ -23,8 +23,8 @@ Data collected by the Allegheny County Health Department shows that the air poll
 <div class="flourish-embed flourish-chart" data-src="visualisation/7918666"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Call to Action
-1. [Monitor and report air quality](https://smellpgh.org/)
-2. Join local advocate organizations, like [Allegheny County Clean Air Now](https://accan.org/)
+1. [Monitor and report air quality.](https://smellpgh.org/)
+2. Join local advocate organizations, like [Allegheny County Clean Air Now.](https://accan.org/)
 3. Attend an [Allegheny County Board of Health Public Meeting](https://www.alleghenycounty.us/Health-Department/Resources/About/Board-of-Health/Public-Meeting-Schedule.aspx) and request action.
 
 # User Research
