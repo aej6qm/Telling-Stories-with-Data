@@ -2,17 +2,16 @@
 <div class="flourish-embed flourish-photo-slider" data-src="visualisation/7918558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 [*For many people, their experience of Allegheny County is something like this: entering Pittsburgh through one of its famed bridges. For others, their reality looks a little different.*]
 
-## Allegheny County has a long history of unhealthy air pollution, the effects of which are felt most heavily by poor and minority communities.
-[*Discuss [recent study](https://www.ehn.org/environmental-injustice-pittsburgh-air-pollution-2646169635/particle-1) published in "Environmental Health" by researchers from the University of Pittsburgh, Carnegie Mellon University, and the Allegheny County Health Department.*] 
-
 ### Although air quality in Allegheny County has improved over the decades, it remains harmful to many populations
 <div class="flourish-embed flourish-chart" data-src="visualisation/7917603"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7918464"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## These effects of which are felt most heavily by poor and minority communities.
 
-Environmental Justice Communities are defined by the Pennsylvania Department of Environmental Protection as "any census tract where 20 percent or more individuals live at or below the federal poverty line, and/or 30 percent or more of the population identifies as a non-white minority, based on data from the U.S. Census Bureau and the federal guidelines for poverty" [(Source)](https://www.dep.pa.gov/PublicParticipation/OfficeofEnvironmentalJustice/Pages/PA-Environmental-Justice-Areas.aspx)
+Allegheny County contains environmental justice communities, or "any census tract where 20 percent or more individuals live at or below the federal poverty line, and/or 30 percent or more of the population identifies as a non-white minority, based on data from the U.S. Census Bureau and the federal guidelines for poverty" [(Source)](https://www.dep.pa.gov/PublicParticipation/OfficeofEnvironmentalJustice/Pages/PA-Environmental-Justice-Areas.aspx)
 
 [*Visualize using the tool from [DEP](whttps://padep-1.maps.arcgis.com/apps/webappviewer/index.html?id=f31a188de122467691cae93c3339469c) or with GIS using data from the [Western Pennsylvania Regional Data Center](https://data.wprdc.org/dataset/environmental-justice-census-tracts)*]
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7918464"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## The Mon Valley region of Allegheny County in particular experiences high levels of poverty combined with a heavy concentration of air pollution. 
 Data collected by the Allegheny County Health Department shows that the air pollution monitor located in Liberty frequently detects unhealthy levels of fine particulate matter (PM2.5).
