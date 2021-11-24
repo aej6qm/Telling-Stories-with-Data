@@ -18,7 +18,13 @@ Data collected by the Allegheny County Health Department shows that the air poll
 <script type='text/javascript' src='https://tableau.alleghenycounty.us/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 900px; height: 777px;'><object class='tableauViz' width='900' height='777' style='display:none;'><param name='host_url' value='https%3A%2F%2Ftableau.alleghenycounty.us%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;PublicSite' /><param name='name' value='AlleghenyCountyAirQuality&#47;OverTime' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='display_spinner' value='no' /></object></div>
 
 ### In addition, four of the top ten industrial polluters in Allegheny County are located in the Mon Valley.
+[*Note: The final visualization will highlight the four facilties located in the Mon Valley.*]
 <div class="flourish-embed flourish-chart" data-src="visualisation/7918666"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Call to Action
+1. Monitor and report air quality
+2. Join local advocate organizations, like [Allegheny County Clean Air Now](https://accan.org/)
+3. Attend an [Allegheny County Board of Health Public Meeting](https://www.alleghenycounty.us/Health-Department/Resources/About/Board-of-Health/Public-Meeting-Schedule.aspx) and request action.
 
 
 Find Part One of this project [here!](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_1_AnneJensen.html)
