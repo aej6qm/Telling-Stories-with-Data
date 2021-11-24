@@ -15,6 +15,7 @@ Allegheny County contains environmental justice communities, or "any census trac
 
 ## The Mon Valley region of Allegheny County in particular experiences high levels of poverty combined with a heavy concentration of air pollution. 
 Data collected by the Allegheny County Health Department shows that the air pollution monitor located in Liberty frequently detects unhealthy levels of fine particulate matter (PM2.5).
+
 <script type='text/javascript' src='https://tableau.alleghenycounty.us/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 900px; height: 777px;'><object class='tableauViz' width='900' height='777' style='display:none;'><param name='host_url' value='https%3A%2F%2Ftableau.alleghenycounty.us%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;PublicSite' /><param name='name' value='AlleghenyCountyAirQuality&#47;OverTime' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='display_spinner' value='no' /></object></div>
 
 ### In addition, four of the top ten industrial polluters in Allegheny County are located in the Mon Valley.
@@ -28,5 +29,3 @@ Data collected by the Allegheny County Health Department shows that the air poll
 
 
 Find Part One of this project [here!](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_1_AnneJensen.html)
-
-[Page View](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_2_AnneJensen.md)
