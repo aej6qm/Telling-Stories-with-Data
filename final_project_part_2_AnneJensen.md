@@ -2,7 +2,7 @@
 <div class="flourish-embed flourish-photo-slider" data-src="visualisation/7918558"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 [*For some, the experience of Allegheny County is something like this: entering Pittsburgh through one of its famed bridges. For others, the reality looks a little different.*]
 
-### Although air quality in Allegheny County has improved over the decades, it remains harmful to many populations
+## Although air quality in Allegheny County has improved over the decades, it remains harmful to many populations
 <div class="flourish-embed flourish-chart" data-src="visualisation/7917603"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## These effects are felt most heavily by poor and minority communities
