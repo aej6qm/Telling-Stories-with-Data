@@ -5,7 +5,7 @@
 ## Although air quality in Allegheny County has improved over the decades, it remains harmful to many populations
 <div class="flourish-embed flourish-chart" data-src="visualisation/7917603"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-In the study, researchers estimated that about 40 percent of air pollution-related coronary heart disease deaths in Allegheny County occur in environmental justice communities—even though such communities represent just 27 percent of the county's total population.
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7918464"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Environmental Justice Communities are defined by the Pennsylvania Department of Environmental Protection as "any census tract where 20 percent or more individuals live at or below the federal poverty line, and/or 30 percent or more of the population identifies as a non-white minority, based on data from the U.S. Census Bureau and the federal guidelines for poverty" [(Source)](https://www.dep.pa.gov/PublicParticipation/OfficeofEnvironmentalJustice/Pages/PA-Environmental-Justice-Areas.aspx)
 
