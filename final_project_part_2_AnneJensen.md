@@ -39,6 +39,6 @@ One of the things I struggled with while completing this draft was focusing my p
 
 In terms of visualizations, I plan to add a few more that incorporate the user research feedback I received and to tweak the visualizations I've already created so that they properly emphasis the data I want highlighted.
 
-Find [Part I](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_1_AnneJensen.html) and [Part III](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_3_AnneJensen.html) of this project here!
+#### Find [Part I](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_1_AnneJensen.html) and [Part III](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_3_AnneJensen.html) of this project here!
 
-[Return to main page](https://aej6qm.github.io/Telling-Stories-with-Data/)
+#### [Return to main page](https://aej6qm.github.io/Telling-Stories-with-Data/)
