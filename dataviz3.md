@@ -45,4 +45,4 @@ In general, I think that my data visualization did a good job of presenting the 
 
 I think that while my visualization is an improvement, it would be interesting to experiment with other chart types, and perhaps more data, to paint a wider picture of climate change and its many indicators. The EPA has a variety of rich data sets, and I would enjoy revising more of these visualizations. Environmental policy and data are clearly important to me, and I think that maximizing the communication potential of these data visualizations is critical to reaching their intended audience in a meaningful way.
 
-[Return to Main Page](https://aej6qm.github.io/Telling-Stories-with-Data/)
+#### [Return to Main Page](https://aej6qm.github.io/Telling-Stories-with-Data/)
