@@ -34,6 +34,5 @@ After graduation, I plan to work as a policy researcher/analyst where I will con
 
 [Part III](/final_project_part_3_AnneJensen.md)
 
-
-#[Page View](https://aej6qm.github.io/Telling-Stories-with-Data/)
+# [Page View](https://aej6qm.github.io/Telling-Stories-with-Data/)
  
