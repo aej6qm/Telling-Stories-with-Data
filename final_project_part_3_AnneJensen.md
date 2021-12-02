@@ -1,4 +1,4 @@
-# Final Data Story
+# Final Project: Part III
 ## Project Summary
 ### Overview:
 [This project discusses air quality in Allegheny County, Pennsylvania in that the effects of air pollution are concentrated in state-designated environmental justice tracts where the 20% of the population is under the poverty line and/or 30% of the population is non-white minority. With this reality in mind, this project includes a call to action for concerned residents and provides resources to help make a change.
@@ -68,5 +68,7 @@ Another thing that I struggled with was actually creating my visualizations. The
 [7] [Chatham University](https://www.chatham.edu/academics/undergraduate/exercise-science/index.html)
 
 ## Shorthand Link: [Hell With the Lid Taken Off](https://carnegiemellon.shorthandstories.com/anne-jensen-hell-with-the-lid-taken-off/index.html)
-## Find [Part I](/final_project_part_1_AnneJensen.md) and [Part II](/final_project_part_1I_AnneJensen.md) here!
+
+Find [Part I](/final_project_part_1_AnneJensen.md) and [Part II](/final_project_part_1I_AnneJensen.md) here!
+
 [Return to homepage](https://aej6qm.github.io/Telling-Stories-with-Data.html)
