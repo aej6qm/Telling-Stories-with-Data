@@ -69,6 +69,6 @@ Another thing that I struggled with was actually creating my visualizations. The
 
 ## Shorthand Link: [Hell With the Lid Taken Off](https://carnegiemellon.shorthandstories.com/anne-jensen-hell-with-the-lid-taken-off/index.html)
 
-Find [Part I](/final_project_part_1_AnneJensen.md) and [Part II](/final_project_part_1I_AnneJensen.md) here!
+Find [Part I](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_1_AnneJensen.html) and [Part II](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_2_AnneJensen.html) of this project here!
 
 [Return to homepage](https://aej6qm.github.io/Telling-Stories-with-Data.html)
