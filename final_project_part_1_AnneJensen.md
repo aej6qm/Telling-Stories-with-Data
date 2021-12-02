@@ -20,7 +20,6 @@ To create my visualizations I will probably end up using Flourish as this has be
 
 My final project will most likely be completed using Shorthand, since this platform seems particularly clean and effective to build a story like this. I would also consider using Esri's Story Maps, as this is another digital platform that would lend itself well to geographic storytelling. Most importantly, neither potential medium will result in a deliverable that requires Powerpoint slides or a pitch deck. 
 
-Find Part II of this project [here!](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_2_AnneJensen.html)
-Find Part III of this project [here!](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_3_AnneJensen.html)
+Find [Part II](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_2_AnneJensen.html) and [Part III](https://aej6qm.github.io/Telling-Stories-with-Data/final_project_part_3_AnneJensen.html) of this project here!
 
 [Return to homepage](https://aej6qm.github.io/Telling-Stories-with-Data.html)
