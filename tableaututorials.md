@@ -27,4 +27,4 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
   </script>
 
-[Return to homepage](https://aej6qm.github.io/Telling-Stories-with-Data.html)
+#### [Return to homepage](https://aej6qm.github.io/Telling-Stories-with-Data.html)
