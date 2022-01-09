@@ -1,5 +1,5 @@
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU, Fall 2021.
+Welcome to my public portfolio for Telling Stories with Data at Carnegie Mellon University, Fall 2021. This portfolio contains data visualizations that I created over the course of the class, including a final project examining air pollution in the Mon Valley region of Pittsburgh. For more information about the visualizations shown here, please contact me at aejensen@andrew.cmu.edu. Thanks for visiting!
 
 # About me
 Hi! My name is Anne (she/her) and I'm a second-year graduate student at CMU studying public policy and management. My areas of interest include social and environmental policy, especially at the intersection of race and environmental justice. 
